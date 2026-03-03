@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥛 SPYLT — Awwwards Clone
+# 🥛 SPYLT — Awwwards 
 
 **A pixel-perfect frontend recreation of the Awwwards SOTD winning website for SPYLT — a bold, rebellious lactose-free flavoured milk brand.**
 
