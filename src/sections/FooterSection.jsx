@@ -415,7 +415,7 @@ const FooterSection = ({ id }) => {
 
           <div className="copyright-box mt-16 md:px-10 px-5 pb-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm opacity-35 text-milk">
-              Copyright © 2026 Spylt — All Rights Reserved
+              Copyright © 2026 Spylt. All Rights Reserved
             </p>
             <div className="flex items-center gap-6">
               <button

@@ -16,7 +16,7 @@ const MessageSection = ({ id }) => {
       linesClass: 'paragraph-line',
     })
 
-    // First line — word-by-word color fill
+    // First line: word-by-word color fill
     gsap.to(firstMsgSplit.words, {
       color: '#faeade',
       ease: 'power1.in',
@@ -29,7 +29,7 @@ const MessageSection = ({ id }) => {
       },
     })
 
-    // Second line — word-by-word color fill
+    // Second line: word-by-word color fill
     gsap.to(secondMsgSplit.words, {
       color: '#faeade',
       ease: 'power1.in',
